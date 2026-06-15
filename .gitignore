@@ -5,6 +5,7 @@ build
 diff_rasterization/diff_rast.egg-info
 diff_rasterization/dist
 data
+eval_result
 tensorboard_3d
 **/__pycache__/
 events.out*
@@ -12,5 +13,8 @@ ckpt
 release
 # pixi environments
 .pixi
-# miyabi setting md
+# miyabi 
 miyabi.md
+*.pbs
+pbs
+logs

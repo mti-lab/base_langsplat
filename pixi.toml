@@ -31,6 +31,7 @@ torchvision = { version = "0.21.*", build = "cuda126*" }
 
 [pypi-dependencies]
 open-clip-torch = "*"
+mediapy = "*"
 segment-anything = { path = "submodules/segment-anything-langsplat", editable = true }
 
 [tasks]
